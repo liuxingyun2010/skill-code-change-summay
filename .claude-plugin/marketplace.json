@@ -1,0 +1,14 @@
+{
+  "name": "skill-code-change-summay",
+  "description": "代码修改总结 skill 插件市场",
+  "owner": { "name": "liuxingyun" },
+  "plugins": [
+    {
+      "name": "code-change-summary",
+      "description": "每次代码修改后自动追加中文修改总结与前后对比",
+      "version": "1.0.0",
+      "source": "./",
+      "author": { "name": "liuxingyun" }
+    }
+  ]
+}
